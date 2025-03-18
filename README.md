@@ -39,23 +39,3 @@ The dataset includes sales transaction records for **Maven Roasters**, a fictiti
 The analysis provides actionable recommendations to optimize monthly sales and improve customer retention.  
 
 ---
-# Reference Links
-
-## 📺 Watch the Project Tutorial
-Watch "** End-to-End Excel Dashboard Project**" on YouTube:  
-[![Watch on YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube)](https://youtu.be/Rthh_bK5xUs?si=uyFRqncQsXOnsX3w)
-
----
-
-## 📥 Download Sample Dataset
-Get the sample dataset from the **Maven Analytics** website:  
-[Download Dataset from Maven Analytics](https://mavenanalytics.io/data-playground?page=3&pageSize=5)
-
----
-
-## 🎨 Choose Your Color Palette
-Explore and select colors using the **Color-Hex** website:  
-[Visit Color-Hex for Color Palettes](https://www.color-hex.com/color-palette/30023)
-
----
-
