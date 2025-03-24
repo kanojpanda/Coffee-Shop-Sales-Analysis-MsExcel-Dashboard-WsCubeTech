@@ -1,4 +1,4 @@
-# Coffee Shop Sales Analysis
+# Coffee Shop Sales Analysis (MsExcel-Dashboard)
 
 ## Project Description
 This project analyzes coffee shop sales data to uncover trends, customer preferences, and seasonal sales patterns. The goal is to provide actionable insights to enhance sales strategies and customer satisfaction.  
